@@ -1,18 +1,30 @@
 h1{
-    color: blue;
+    color: #333;
+    padding: 10px 10px 10px 10px;
+    font-size: 50px;
+    text-align: center;
+    border: 6px solid rgb(43, 0, 236); /*criar borda e cor da borda*/
+    background-color: rgb(145, 189, 189);
 }
 h2{
-    color: blueviolet;
+    color: blueviolet;   
 }
 h3{
-    color: rgb(255, 0, 149);
+    color: blueviolet;
 }
 h4{
-    color: crimson;
+    color: blueviolet;
 }
 h5{
-    color: darkgoldenrod;
+    color: blueviolet;
 }
 h6{
-    color: rgb(245, 96, 10);
+    color: blueviolet;
+}
+img{
+    border-radius:20% ;
+    padding: 10px 10px 10px 10px;
+}
+body{
+    background-color: rgb(240, 207, 214);
 }
